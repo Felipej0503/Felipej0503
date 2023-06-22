@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Felipej0503
-- 👀 I’m interested in learn somenthing new 
-- 🌱 I’m currently learning JavaScript
+
